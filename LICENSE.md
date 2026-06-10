@@ -1,4 +1,4 @@
-# 
+# Smart LocalAI extensions. Featuring vector-database-integration and api-integration — optimized for maximum performance and efficiency.
 
 
 
